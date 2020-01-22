@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Nursery
+comment0.text=\r\n\ Models\ a\ Nursery\ which\ sells\ Plants\r\n\ @author\ Diljot\ Singh\r\n\ @version\ (11-1-2018)\r\n
+comment1.params=
+comment1.target=Nursery()
+comment1.text=\r\n\ Constructs\ a\ Nursery\ which\ has\ an\ ArrayList\ to\ manage\ Plants\r\n
+comment2.params=plant
+comment2.target=void\ add(Plant)
+comment2.text=\r\n\ Adds\ the\ specified\ Plant\ to\ the\ Nursery\r\n\ @param\ plant\ the\ plant\ to\ add\ \r\n
+comment3.params=
+comment3.target=double\ average()
+comment3.text=\r\n\ Finds\ the\ average\ cost\ of\ all\ Plants\ in\ the\ Nursery\r\n\ @return\ average\ the\ average\ cost\ of\ all\ the\ plants\r\n
+comment4.params=otherNursery
+comment4.target=boolean\ sameContents(Nursery)
+comment4.text=\r\n\ Determines\ if\ this\ Nursery\ and\ otherNursery\ contain\ Plants\ with\ the\ same\ name\r\n\ @param\ otherNursery\ the\ other\ nursery\ to\ check\r\n\ @return\ match\ the\ boolean\ true\ or\ false\ \r\n
+comment5.params=
+comment5.target=java.util.ArrayList\ plantList()
+comment5.text=\r\n\ Gets\ an\ ArrayList\ with\ names\ of\ Plants\ in\ the\ Nursery\r\n\ @return\ list\ the\ ArrayList\ with\ the\ names\ of\ the\ Plants\r\n
+numComments=6

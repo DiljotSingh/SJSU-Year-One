@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=SnowGlobe
+comment0.text=\r\n\ Models\ a\ Snowglobe\ with\ moving\ particles\r\n\ @author\ Diljot\ Singh\r\n
+comment1.params=theRadius
+comment1.target=SnowGlobe(double)
+comment1.text=\r\n\ Constructs\ a\ SnowGlobe\ object\ with\ the\ given\ radius\r\n\ @param\ theRadius\ the\ radius\ of\ this\ snowglobe\ \r\n
+comment2.params=
+comment2.target=SnowGlobe()
+comment2.text=\r\n\ Constructs\ a\ new\ Snowglobe\ object\ with\ DEFAULT_RADIUS\r\n
+comment3.params=newRadius
+comment3.target=void\ setRadius(double)
+comment3.text=\r\n\ Sets\ the\ radius\ to\ a\ new\ radius\r\n\ @param\ newRadius\ the\ new\ radius\ for\ this\ Snowglobe\r\n
+comment4.params=
+comment4.target=double\ getRadius()
+comment4.text=\r\n\ Gets\ the\ radius\ of\ this\ Snowglobe\r\n\ @return\ radius\ the\ radius\ of\ this\ Snowglone\r\n
+comment5.params=
+comment5.target=double\ getVolume()
+comment5.text=\r\n\ Gets\ the\ volume\ of\ this\ SnowGlobe\r\n\ @return\ totalVolume\ the\ volume\ of\ this\ SnowGlobe\r\n
+comment6.params=
+comment6.target=double\ getSnowVolume()
+comment6.text=\r\n\ Gets\ the\ volume\ of\ the\ snow\ \r\n\ @return\ snowVolume\ the\ volume\ of\ the\ snow\ in\ this\ SnowGlobe\r\n
+comment7.params=
+comment7.target=double\ getSnowCost()
+comment7.text=\r\n\ Gets\ the\ cost\ of\ the\ snow\r\n\ @return\ snowCost\ the\ cost\ of\ the\ snow\r\n
+numComments=8

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EnhancedAnimal
+comment0.text=\r\n\ A\ subclass\ of\ Animal,\ models\ a\ more\ realistic\ Animal\ which\ can\ move,\ eat,\ and\ store\ or\ lose\ energy\ to\ certain\ cap\r\n\r\n\ @author\ Diljot\ Singh\r\n\ @version\ (11-28-2018)\r\n
+comment1.params=maximumEnergy
+comment1.target=EnhancedAnimal(int)
+comment1.text=\r\n\ Constructs\ an\ EnhancedAnimal\ that\ has\ a\ maximum\ energy\ \r\n\ @param\ maximumEnergy\ the\ maximum\ amount\ of\ energy\ this\ EnhancedAnimal\ can\ have\r\n
+comment2.params=amountToEat
+comment2.target=void\ eat(int)
+comment2.text=\r\n\ Simulates\ the\ Animal\ eating\ and\ gaining\ energy,\ up\ to\ the\ max\ energy\ it\ can\ have\r\n\ @param\ amountToEat\ the\ amount\ to\ eat\ and\ gain\ energy,\ up\ to\ a\ cap\r\n
+comment3.params=amountToMove
+comment3.target=void\ move(int)
+comment3.text=\r\n\ Simulates\ the\ Animal\ moving\ and\ losing\ energy,to\ a\ minimum\ of\ zero\ energy\r\n\ @param\ amountToMove\ the\ amount\ to\ move\ and\ lose\ energy,\ down\ to\ a\ minimum\ of\ zero\r\n
+numComments=4

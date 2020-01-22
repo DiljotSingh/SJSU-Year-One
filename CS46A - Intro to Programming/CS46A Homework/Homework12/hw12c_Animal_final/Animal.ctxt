@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Animal
+comment0.text=\r\n\ Models\ an\ Animal\ that\ can\ move,\ eat,\ and\ store\ or\ lose\ energy\r\n\r\n\ @author\ Diljot\ Singh\r\n\ @version\ (11-28-2018)\r\n
+comment1.params=
+comment1.target=Animal()
+comment1.text=\r\n\ Constructs\ an\ Animal\ that\ initially\ has\ one\ unit\ of\ energy\r\n
+comment2.params=amountToEat
+comment2.target=void\ eat(int)
+comment2.text=\r\n\ Simulates\ the\ Animal\ eating\ and\ gaining\ energy\r\n\ @param\ amountToEat\ the\ amount\ to\ eat\ and\ increase\ energy\ by\r\n
+comment3.params=amountToMove
+comment3.target=void\ move(int)
+comment3.text=\r\n\ Simulates\ the\ Animal\ moving\ and\ losing\ energy\r\n\ @param\ amountToMove\ the\ amount\ to\ move\ and\ lose\ energy\ by\r\n
+comment4.params=
+comment4.target=int\ getEnergy()
+comment4.text=\r\n\ Gets\ the\ amount\ of\ energy\ the\ Animal\ currently\ has\r\n\ @return\ energy\r\n
+numComments=5

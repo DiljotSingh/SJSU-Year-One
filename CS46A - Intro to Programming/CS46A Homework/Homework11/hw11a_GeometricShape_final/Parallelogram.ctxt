@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Parallelogram
+comment0.text=\r\n\ Models\ a\ parallelagram\ in\ 2-d\ space\ that\ implements\ the\ GeometricShape\ interface\r\n
+comment1.params=width\ height
+comment1.target=Parallelogram(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Parallelogram\r\n\ @param\ width\ the\ width\ of\ this\ parallelagram\r\n\ @param\ height\ the\ height\ of\ this\ parallelogram\r\n
+comment2.params=
+comment2.target=int\ getWidth()
+comment2.text=\r\n\ Gets\ the\ width\ of\ this\ Parallelogram\r\n\ @return\ the\ width\ of\ the\ parallelogram\r\n
+comment3.params=newWidth
+comment3.target=void\ setWidth(int)
+comment3.text=\r\n\ Sets\ the\ width\ of\ the\ Parallelogram\r\n\ @param\ newWidth\ the\ value\ of\ the\ new\ width\r\n
+comment4.params=
+comment4.target=int\ getHeight()
+comment4.text=\r\n\ Gets\ the\ height\ of\ this\ Parallelogram\r\n\ @return\ the\ height\ of\ the\ parallelogram\r\n
+comment5.params=newHeight
+comment5.target=void\ setHeight(int)
+comment5.text=\r\n\ Sets\ the\ height\ of\ the\ Parallelogram\r\n\ @param\ newHeight\ the\ value\ of\ the\ new\ height\r\n
+comment6.params=
+comment6.target=double\ area()
+comment6.text=\r\n\ Gets\ the\ area\ of\ the\ Parallelogram\r\n\ @return\ the\ area\ of\ the\ parallelogram\r\n
+numComments=7

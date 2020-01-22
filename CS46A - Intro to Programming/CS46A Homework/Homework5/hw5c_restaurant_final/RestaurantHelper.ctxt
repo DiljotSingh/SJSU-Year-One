@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=RestaurantHelper
+comment0.text=\r\n\ Models\ a\ RestaurantHelper\ to\ help\ customers\ with\ the\ bill\r\n\ @author\ Diljot\ Singh\r\n
+comment1.params=mealCost\ serviceQuality
+comment1.target=RestaurantHelper(double,\ int)
+comment1.text=\r\n\ Constructs\ a\ new\ RestaurantHelper\ with\ given\ meal\ cost\ \r\n\ and\ service\ quality\r\n\ @param\ mealCost\ the\ cost\ of\ the\ meal\r\n\ @param\ serviceQuality\ the\ quality\ of\ the\ service\r\n
+comment2.params=
+comment2.target=double\ tip()
+comment2.text=\r\n\ Gets\ the\ amount\ to\ tip\ according\ to\ quality\ of\ service\r\n\ @return\ tip\r\n
+comment3.params=
+comment3.target=double\ tax()
+comment3.text=\r\n\ Gets\ the\ amount\ of\ tax\ on\ the\ costOfMeal\r\n\ @return\ tax\ (tax\ rate\ times\ meal\ cost)\r\n
+comment4.params=
+comment4.target=double\ totalCost()
+comment4.text=\r\n\ Gets\ the\ total\ cost\ of\ the\ meal\ including\ tip\ and\ tax\r\n\ @return\ costOfMeal\ the\ cost\ of\ the\ meal\r\n
+comment5.params=
+comment5.target=int\ qualityOfService()
+comment5.text=\r\n\ \ Gets\ the\ quality\ of\ service\r\n\ \ @return\ the\ quality\ of\ the\ service\r\n
+comment6.params=
+comment6.target=double\ costOfMeal()
+comment6.text=\r\n\ Gets\ the\ base\ cost\ of\ the\ meal\ (no\ tip\ or\ tax)\ \r\n\ @return\ the\ cost\ of\ the\ meal\ before\ tax\ and\ tip\r\n
+numComments=7

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Person
+comment0.text=\r\n\ Models\ a\ person\ with\ a\ name\ and\ an\ age\r\n\ @author\ Diljot\r\n
+comment1.params=theName\ theAge
+comment1.target=Person(java.lang.String,\ int)
+comment1.text=\r\n\ Constructs\ a\ new\ person\ with\ the\ given\ name\ and\ age\r\n\ @param\ theName\ the\ name\ of\ this\ Person\ object\r\n\ @param\ theAge\ the\ age\ of\ this\ Person\ object\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Gets\ the\ name\ of\ this\ Person\r\n\ @return\ the\ name\ of\ this\ person\r\n
+comment3.params=
+comment3.target=int\ getAge()
+comment3.text=\r\n\ Gets\ the\ age\ of\ this\ Person\r\n\ @return\ this\ person's\ age\r\n
+comment4.params=newName
+comment4.target=void\ setName(java.lang.String)
+comment4.text=\r\n\ Sets\ the\ new\ name\ for\ this\ Person\r\n\ @param\ newName\ the\ new\ name\ for\ this\ Person\r\n
+comment5.params=
+comment5.target=void\ haveBirthday()
+comment5.text=\r\n\ Adds\ one\ to\ this\ Person's\ age\r\n
+numComments=6

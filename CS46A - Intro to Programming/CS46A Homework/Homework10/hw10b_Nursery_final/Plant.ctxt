@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Plant
+comment0.text=\r\n\ Models\ a\ Plant\ that\ has\ a\ name\ and\ price\r\n\ @author\ Diljot\ Singh\r\n\ @version\ (11/1/2018)\r\n
+comment1.params=name\ price
+comment1.target=Plant(java.lang.String,\ double)
+comment1.text=\r\n\ Constructs\ a\ Plant\ that\ has\ a\ name\ and\ price\r\n\ @param\ name\ the\ name\ of\ the\ plant\r\n\ @param\ price\ the\ price\ of\ the\ plant\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Gets\ the\ name\ of\ this\ Plant\r\n\ @return\ name\ the\ name\ of\ the\ Plant\r\n
+comment3.params=newName
+comment3.target=void\ setName(java.lang.String)
+comment3.text=\r\n\ Sets\ the\ name\ of\ this\ Plant\r\n\ @param\ newName\ the\ name\ to\ set\ for\ the\ Plant\r\n
+comment4.params=
+comment4.target=double\ getPrice()
+comment4.text=\r\n\ Gets\ the\ price\ of\ this\ Plant\r\n\ @return\ price\ the\ price\ of\ this\ Plant\r\n
+comment5.params=newPrice
+comment5.target=void\ setPrice(double)
+comment5.text=\r\n\ Sets\ the\ price\ of\ this\ Plant\r\n\ @param\ newPrice\ the\ price\ to\ set\ for\ the\ Plant\r\n
+numComments=6

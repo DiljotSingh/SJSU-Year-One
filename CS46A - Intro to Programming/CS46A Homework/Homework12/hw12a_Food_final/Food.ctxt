@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Food
+comment0.text=\r\n\ A\ subclass\ of\ Product\ which\ models\ a\ Food\ Product\r\n\r\n\ @author\ Diljot\ Singh\r\n\ @version\ (11-28-2018)\r\n
+comment1.params=description\ price\ calories\ caloriesFromFat
+comment1.target=Food(java.lang.String,\ double,\ int,\ int)
+comment1.text=\r\n\ Constructs\ a\ Food\ Product\ that\ has\ a\ description,\ price,\ total\ calories,\ and\ calories\ from\ fat\r\n\ @param\ String\ description\ the\ description\ of\ this\ Food\ Product\r\n\ @param\ double\ price\ the\ price\ of\ this\ Food\ Product\r\n\ @param\ int\ calories\ the\ total\ number\ of\ calories\ in\ this\ Food\ Product\r\n\ @param\ int\ caloriesFromFat\ the\ number\ of\ calories\ from\ fat\ in\ this\ Food\ Product\r\n
+comment2.params=
+comment2.target=int\ getCalories()
+comment2.text=\r\n\ Gets\ the\ total\ number\ of\ calories\ in\ this\ Food\ Product\r\n\ @return\ totalCalories\ the\ total\ number\ of\ calories\ \r\n
+comment3.params=
+comment3.target=int\ getCaloriesFromFat()
+comment3.text=\r\n\ Gets\ the\ total\ number\ of\ calories\ from\ fat\ in\ this\ Food\ Product\r\n\ @return\ totalCaloriesFromFat\ the\ total\ number\ of\ calories\ from\ fat\r\n
+comment4.params=
+comment4.target=boolean\ isAllowed()
+comment4.text=\r\n\ Tells\ if\ this\ Food\ is\ allowed\ in\ the\ diet\ (true\ if\ totalCaloriesFromFat\ is\ less\ than\ 1/3\ of\ totalCalories)\r\n\ @return\ boolean\ true\ or\ false\r\n
+comment5.params=
+comment5.target=java.lang.String\ getDescription()
+comment5.text=\r\n\ Gets\ the\ description\ of\ this\ Food\r\n\ @return\ description\ the\ description\ of\ this\ Food\ \r\n
+numComments=6

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Product
+comment0.text=\r\n\ Models\ a\ product\ wih\ a\ price\ and\ description\r\n
+comment1.params=theDescription\ thePrice
+comment1.target=Product(java.lang.String,\ double)
+comment1.text=\r\n\ Constructs\ a\ Product\ with\ a\ price\ and\ description\r\n\ @param\ thePrice\ the\ price\ of\ this\ product\r\n\ @param\ theDescription\ the\ description\ of\ this\r\n\ product\r\n
+comment2.params=
+comment2.target=double\ getPrice()
+comment2.text=\r\n\ Gets\ the\ price\ of\ this\ Product\r\n\ @return\ the\ price\ of\ this\ object\r\n
+comment3.params=
+comment3.target=java.lang.String\ getDescription()
+comment3.text=\r\n\ Gets\ the\ description\ of\ this\ Product\r\n\ @return\ the\ description\ of\ this\ Product\r\n
+comment4.params=percent
+comment4.target=void\ reducePrice(double)
+comment4.text=\r\n\ Reduce\ the\ price\ by\ the\ given\ percent\r\n\ @param\ percent\ the\ pecentage\ to\ reduce\ the\ price\ by\r\n
+comment5.params=percent
+comment5.target=void\ increasePrice(double)
+comment5.text=\r\n\ Increase\ the\ price\ of\ the\ Product\ by\ the\ \r\n\ given\ percent\r\n\ @param\ percent\ the\ percentage\ to\ increase\ the\ \r\n\ price\ by\r\n
+numComments=6

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Wildebeest
+comment0.text=\r\n\ Models\ a\ Wildebeest\ that\ has\ 4\ different\ states\r\n\ @author\ Diljot\ Singh\r\n\ @version\ (11-3-2018)\r\n
+comment1.params=
+comment1.target=Wildebeest()
+comment1.text=\r\n\ Constructs\ a\ Wildbeest\ who's\ state\ of\ hunger\ is\ initially\ very\ hungry\ but\ can\ change\r\n
+comment2.params=
+comment2.target=void\ travel()
+comment2.text=\r\n\ Represents\ the\ Wildebeest\ travelling\ some\ distance;\ it\ becomes\ more\ hungry\ if\ not\ already\ VERY_HUNGRY\r\n
+comment3.params=
+comment3.target=void\ seeFood()
+comment3.text=\r\n\ Represents\ the\ Wildebeest\ seeing\ food\ and\ eating\ it,\ if\ it\ is\ in\ a\ state\ of\ hunger\r\n
+comment4.params=
+comment4.target=java.lang.String\ getHungerLevel()
+comment4.text=\r\n\ Gets\ a\ string\ describing\ the\ current\ hunger\ state\ of\ the\ Wildebeest\r\n\ @return\ hungerState\ the\ current\ state\ of\ hunger\ of\ the\ Wildebeest\ as\ a\ String\r\n
+comment5.params=
+comment5.target=int\ getState()
+comment5.text=\r\n\ Gets\ the\ integer\ representing\ the\ state,\ from\ 1\ to\ 4\r\n\ @return\ state\ the\ state\ of\ hunger\ the\ Wildebeest\ is\ in\r\n
+numComments=6

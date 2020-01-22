@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=RightTriangle
+comment0.text=\r\n\ Models\ a\ RightTriangle\ that\ implements\ the\ GeometricShape\ interface\r\n
+comment1.params=base\ height
+comment1.target=RightTriangle(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ RightTriangle\r\n\ @param\ base\ the\ base\ of\ this\ parallelagram\r\n\ @param\ height\ the\ height\ of\ this\ RightTriangle\r\n
+comment2.params=
+comment2.target=int\ getBase()
+comment2.text=\r\n\ Gets\ the\ base\ of\ this\ RightTriangle\r\n\ @return\ the\ base\ of\ the\ RightTriangle\r\n
+comment3.params=newBase
+comment3.target=void\ setBase(int)
+comment3.text=\r\n\ Sets\ the\ base\ of\ the\ RightTriangle\r\n\ @param\ newBase\ the\ value\ of\ the\ new\ base\r\n
+comment4.params=
+comment4.target=int\ getHeith()
+comment4.text=\r\n\ Gets\ the\ height\ of\ this\ RightTriangle\r\n\ @return\ the\ height\ of\ the\ RightTriangle\r\n
+comment5.params=newHeight
+comment5.target=void\ setHeight(int)
+comment5.text=\r\n\ Sets\ the\ height\ of\ the\ RightTriangle\r\n\ @param\ newHeight\ the\ value\ of\ the\ new\ height\r\n
+comment6.params=
+comment6.target=double\ area()
+comment6.text=\r\n\ Gets\ the\ area\ of\ the\ RightTriangle\r\n\ @return\ the\ area\ of\ the\ RightTriangle\r\n
+numComments=7

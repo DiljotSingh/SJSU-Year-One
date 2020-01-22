@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Plant
+comment0.text=\r\n\ Models\ a\ plant\ with\ a\ name\ and\ a\ price\r\n
+comment1.params=name\ price
+comment1.target=Plant(java.lang.String,\ double)
+comment1.text=\r\n\ Constructs\ a\ new\ Plant\r\n\ @param\ name\ the\ Plant's\ name\r\n\ @param\ price\ the\ price\ of\ the\ Plant\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Gets\ the\ Plant's\ name\r\n\ @return\ the\ name\ of\ the\ Plant\r\n
+comment3.params=
+comment3.target=double\ getPrice()
+comment3.text=\r\n\ Gets\ the\ Plant's\ price\r\n\ @return\ the\ price\ of\ the\ Plant\r\n
+comment4.params=newName
+comment4.target=void\ setName(java.lang.String)
+comment4.text=\r\n\ Sets\ a\ new\ name\ for\ the\ Plant\r\n\ @param\ newName\ the\ new\ name\ for\ the\ Plant\r\n
+comment5.params=price
+comment5.target=void\ setPrice(double)
+comment5.text=\r\n\ Sets\ a\ new\ price\ for\ the\ Plant\r\n\ @param\ price\ the\ new\ price\ for\ the\ Plant\r\n
+comment6.params=otherObject
+comment6.target=int\ compareTo(java.lang.Object)
+comment6.text=\r\n\ Compares\ this\ Object\ to\ otherObject\r\n\ @param\ otherObject\r\n\ @return\ -1,\ 1,\ or\ 0\r\n
+numComments=7

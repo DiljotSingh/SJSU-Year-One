@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=StringStuff
+comment0.text=\r\n\ Takes\ a\ String\ input\ and\ manipulates\ it\ using\ the\ Scanner\ object\r\n\ @author\ Diljot\ Singh\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Creates\ a\ scanner\ and\ then\ prints\ string\ type\ outputs\ by\ manipulating\ given\ input\r\n
+numComments=2

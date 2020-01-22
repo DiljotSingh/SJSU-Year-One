@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=GrowableArray
+comment0.text=\r\n\ An\ array\ that\ can\ grow\ and\ shrink\r\n\ @author\ Diljot\ Singh\r\n
+comment1.params=
+comment1.target=GrowableArray()
+comment1.text=\r\n\ Constructs\ a\ GrowableArray\ object\ which\ initalizes\ the\ contents\ array\r\n
+comment2.params=toAdd
+comment2.target=void\ add(java.lang.String)
+comment2.text=\r\n\ Adds\ the\ given\ string\ at\ the\ end\ of\ the\ partially\ filled\ array\r\n\ @param\ toAdd\ the\ string\ to\ add\ to\ contents[]\r\n
+comment3.params=toAdd\ index
+comment3.target=void\ add(java.lang.String,\ int)
+comment3.text=\r\n\ Adds\ the\ string\ at\ the\ specified\ index\r\n\ @param\ toAdd\ the\ string\ to\ add\ to\ the\ array\r\n\ @param\ index\ the\ index\ at\ which\ the\ string\ will\ be\ added\r\n
+comment4.params=index
+comment4.target=void\ remove(int)
+comment4.text=\r\n\ Removes\ the\ element\ at\ the\ given\ index\r\n\ @param\ index\ the\ index\ at\ which\ the\ element\ will\ be\ removed\r\n
+comment5.params=
+comment5.target=void\ growIfNeeded()
+comment5.text=\ Notice\ this\ is\ not\ Javadoc\ since\ the\ method\ is\ not\ part\ of\ the\ public\ interface\r\n\ \r\n\ If\ the\ array\ is\ at\ capacity,\ doubles\ the\ size\ of\ the\ array\ by\ creating\ a\ new\ array\ that\ is\ twice\ \r\n\ as\ big,\ \ copying\ the\ elements\ from\ the\ old\ array\ to\ the\ new\ array\r\n\ and\ assigning\ the\ new\ array\ to\ the\ array\ reference\ (instance\ variable)\ \r\n\ \r\n\ (Note\:\ the\ array\ is\ at\ capacity\ when\ the\ instance\ variable\ size\ equals\ the\ length\ of\ the\ array\r\n\ \r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

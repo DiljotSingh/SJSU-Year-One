@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=SimpleLineManager
+comment0.text=\r\n\ Models\ a\ SimpleLineManager\ which\ manages\ a\ line\ in\ a\ 2-D\ space\ using\ an\ ArrayList\r\n\ @author\ (Diljot\ Singh)\r\n\ @version\ (10/18/2018)\r\n
+comment1.params=
+comment1.target=SimpleLineManager()
+comment1.text=\r\n\ Constructs\ a\ lines\ ArrayList\r\n
+comment2.params=line
+comment2.target=void\ add(SimpleLine)
+comment2.text=\r\n\ Adds\ this\ SimpleLine\ to\ the\ SimpleLineManager\ (to\ the\ ArrayList\ instance\ variable)\r\n\ @param\ line\ the\ line\ to\ add\ to\ the\ ArrayList\ "lines"\r\n
+comment3.params=index1\ index2
+comment3.target=void\ swap(int,\ int)
+comment3.text=\r\n\ Swaps\ the\ element\ at\ index1\ with\ the\ element\ at\ index2\r\n\ @param\ index1\ the\ first\ index\ to\ swap\ with\r\n\ @param\ index2\ the\ second\ index\ to\ swap\ with\r\n
+comment4.params=
+comment4.target=double\ shortest()
+comment4.text=\r\n\ Gets\ the\ length\ for\ the\ shortest\ line\r\n\ @return\ shortestLength\ the\ length\ of\ the\ shortest\ line\r\n
+comment5.params=line
+comment5.target=double\ getLength(SimpleLine)
+comment5.text=\r\n\ Helper\ method\ for\ the\ shortest()\ method,\ calculates\ the\ length\ of\ a\ line\ using\ pythagorean\ theorem\r\n\ @param\ line\ the\ line\ to\ calculate\ the\ length\ of\r\n\ @return\ length\ the\ calculated\ length\ of\ a\ line\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Snowman
+comment0.text=\r\n\ Models\ a\ Snowman\ at\ specific\ coordinates\ x\ and\ y\r\n\ @author\ Diljot\ Singh\r\n
+comment1.params=theX\ theY
+comment1.target=Snowman(int,\ int)
+comment1.text=\r\n\ Constructs\ a\ Snowman\ object\ with\ specified\ coordinates\ x\ and\ y\r\n\ @param\ theX\ the\ x\ coordinate\r\n\ @param\ theY\ the\ y\ coordinate\r\n
+comment2.params=
+comment2.target=void\ draw()
+comment2.text=\r\n\ Draws\ the\ Snowman's\ different\ shapes\ at\ given\ x\ and\ y\ coordinates\r\n
+numComments=3

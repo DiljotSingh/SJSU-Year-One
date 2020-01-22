@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=CMYKRectangle
+comment0.text=\r\n\ A\ subclass\ of\ the\ Rectangle\ class\ that\ uses\ CMYK\ colors\ only\ (Cyan,\ Magenta,\ Yellow,\ Black)\r\n\r\n\ @author\ Diljot\ Singh\r\n\ @version\ (11-28-2018)\r\n
+comment1.params=x\ y\ w\ h
+comment1.target=CMYKRectangle(int,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructs\ a\ CMYK\ Rectangle\ with\ a\ default\ color\ of\ Cyan\r\n\ @param\ x\ the\ x\ coordinate\ of\ the\ CMYK\ Rectangle\r\n\ @param\ y\ the\ y\ coordinate\ of\ the\ CMYK\ Rectangle\r\n\ @param\ w\ the\ width\ of\ the\ CMYK\ Rectangle\r\n\ @param\ h\ the\ height\ of\ the\ CMYK\ Rectangle\r\n
+comment2.params=x\ y\ w\ h\ color
+comment2.target=CMYKRectangle(int,\ int,\ int,\ int,\ java.lang.String)
+comment2.text=\r\n\ Constructs\ a\ CMYK\ Rectangle\ with\ the\ given\ CMYK\ color\r\n\ @param\ x\ the\ x\ coordinate\ of\ the\ CMYK\ Rectangle\r\n\ @param\ y\ the\ y\ coordinate\ of\ the\ CMYK\ Rectangle\r\n\ @param\ w\ the\ width\ of\ the\ CMYK\ Rectangle\r\n\ @param\ h\ the\ heigh\ of\ the\ CMYK\ Rectangle\r\n\ @param\ color\ the\ color\ to\ construct\ the\ CMYK\ Rectangle\ \r\n
+comment3.params=
+comment3.target=java.lang.String\ getCmykColor()
+comment3.text=\r\n\ Gets\ the\ color\ of\ this\ Rectangle\r\n\ @return\ cmykColor\ the\ color\ of\ this\ Rectangle\r\n
+comment4.params=newColor
+comment4.target=void\ setCmykColor(java.lang.String)
+comment4.text=\r\n\ Sets\ the\ color\ of\ this\ Rectangle\r\n\ @param\ newColor\ the\ new\ CMYK\ color\ to\ set\ the\ Rectangle\ to\r\n
+comment5.params=aColor
+comment5.target=void\ setColor(Color)
+comment5.text=\r\n\ Overrides\ the\ setColor\ method\ in\ the\ Rectangle\ superclass\ to\ only\ allow\ CMYK\ colors\r\n\ @param\ aColor\ any\ color,\ this\ method\ will\ not\ do\ anything\r\n
+numComments=6

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=SimpleLineArrayManager
+comment0.text=\r\n\ Manages\ a\ collection\ of\ SimpleLine\ objects\r\n\r\n\ @author\ Diljot\ Singh\r\n
+comment1.params=lines
+comment1.target=SimpleLineArrayManager(SimpleLine[])
+comment1.text=\r\n\ Constructs\ a\ SimpleLineArrayManager\ object\r\n\ @param\ lines\ the\ ArrayList\ to\ set\ this.lines\ equal\ to\r\n
+comment2.params=
+comment2.target=double\ sum()
+comment2.text=\r\n\ Gets\ the\ sum\ of\ the\ length\ of\ all\ the\ lines\ in\ the\ array\r\n\ @return\ sum\ the\ sum\ of\ all\ the\ lengths\ of\ the\ lines\ in\ the\ array\r\n
+comment3.params=line
+comment3.target=double\ getLength(SimpleLine)
+comment3.text=\r\n\ Computes\ the\ length\ of\ a\ line\ using\ pythagorean\ theorem\r\n\ @param\ line\ the\ line\ to\ calculate\ the\ length\ for\r\n\ @return\ length\ the\ length\ of\ the\ line\r\n
+comment4.params=index1\ index2
+comment4.target=void\ swap(int,\ int)
+comment4.text=\ \r\n\ Swaps\ two\ elements\ in\ the\ array\r\n\ @param\ index1\ the\ first\ element\ in\ the\ swap\r\n\ @param\ index2\ the\ second\ element\ in\ the\ swap\r\n
+comment5.params=
+comment5.target=SimpleLine\ shortest()
+comment5.text=\ \r\n\ Gets\ the\ shortest\ line\r\n\ @return\ shortestLine\ the\ shortest\ line\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

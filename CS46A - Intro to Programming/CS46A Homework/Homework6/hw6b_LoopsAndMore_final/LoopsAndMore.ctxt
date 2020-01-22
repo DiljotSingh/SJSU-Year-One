@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=LoopsAndMore
+comment0.text=\r\n\ Models\ a\ Loop\ that\ performs\ various\ functions\r\n\ @author\ Diljot\ Singh\r\n
+comment1.params=limit
+comment1.target=int\ sumEveryThird(int)
+comment1.text=\r\n\ Gets\ the\ sum\ of\ every\ third\ number\ less\ than\ the\ limit\ starting\ from\ 3\ but\ excludes\ numbers\ divisible\ by\ 5\ (such\ as\ 15)\r\n\ @param\ limit\ the\ number\ to\ calculate\ the\ sum\ for\r\n\ @return\ sum\ the\ sum\ of\ every\ third\ number\ below\ the\ limit,\ excluding\ numbers\ divisible\ by\ 5\r\n
+comment2.params=count
+comment2.target=java.lang.String\ printJava(int)
+comment3.params=target
+comment3.target=int\ largestPowerOf2(int)
+numComments=4

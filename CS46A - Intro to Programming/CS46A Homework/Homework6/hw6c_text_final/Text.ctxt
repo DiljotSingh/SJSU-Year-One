@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Text
+comment0.text=\r\n\ Models\ a\ line\ of\ Text.\r\n\ @author\ Diljot\r\n
+comment1.params=theText
+comment1.target=Text(java.lang.String)
+comment1.text=\r\n\ Constructs\ a\ Text\ object\r\n\ @param\ theText\ the\ text\ of\ the\ string\r\n
+comment2.params=ch
+comment2.target=boolean\ isDigit(java.lang.String)
+comment2.text=\r\n\ Determines\ if\ the\ string\ is\ a\ single\ digit\r\n\ @param\ ch\ the\ String\ to\ test\r\n\ @return\ true\ if\ the\ string\ contains\ a\ single\ digit\ else\ false\r\n
+comment3.params=
+comment3.target=java.lang.String\ getText()
+comment3.text=\r\n\ Gets\ the\ text\r\n\ @return\ text\r\n
+comment4.params=
+comment4.target=int\ getACount()
+comment4.text=\r\n\ Gets\ the\ number\ of\ a's\ in\ a\ String\r\n\ @return\ count\ the\ counted\ number\ of\ a's\r\n
+comment5.params=
+comment5.target=java.lang.String\ getDigitsOnly()
+comment5.text=\r\n\ Gets\ the\ digits\ in\ a\ string\r\n\ @return\ digits\ the\ digits\ in\ the\ string\r\n
+comment6.params=
+comment6.target=java.lang.String\ firsts()
+comment6.text=\r\n\ Gets\ a\ String\ consisting\ of\ the\ first\ characters\ of\ every\ word\ in\ the\ Text.\ \r\n\ @return\ a\ String\ consisting\ of\ the\ first\ characters\ of\ every\ word\ in\ the\ Text.\r\n\ If\ the\ String\ is\ less\ than\ 2\ characters\ long,\ return\ the\ text\r\n\ \r\n
+numComments=7

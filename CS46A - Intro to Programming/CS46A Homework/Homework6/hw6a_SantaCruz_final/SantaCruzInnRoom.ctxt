@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SantaCruzInnRoom
+comment0.text=\r\n\ Models\ a\ room\ in\ a\ Santa\ Cruz\ motel.\r\n\ @author\ Diljot\ Singh\r\n
+comment1.params=season\ numberOfGuests
+comment1.target=SantaCruzInnRoom(java.lang.String,\ int)
+comment1.text=\r\n\ Constructs\ a\ SantaCruzInnRoom\ object\ with\ the\ season\ \r\n\ and\ number\ of\ guests\ as\ parameters\ \r\n\ @param\ season\ the\ season\ of\ the\ year\r\n\ @param\ numberOfGuests\ the\ number\ of\ guests\r\n
+comment2.params=
+comment2.target=java.lang.String\ getSeason()
+comment2.text=\r\n\ Gets\ the\ season\ during\ which\ this\ room\ is\ rented\r\n\ @return\ the\ season\ during\ which\ this\ room\ is\ rented\r\n
+comment3.params=
+comment3.target=int\ getGuests()
+comment3.text=\r\n\ Gets\ the\ number\ of\ people\ renting\ the\ room\r\n\ @return\ the\ number\ of\ people\ in\ the\ room\r\n
+comment4.params=numberOfGuests
+comment4.target=void\ setGuests(int)
+comment4.text=\r\n\ Sets\ the\ number\ of\ people\ in\ the\ room\r\n\ @param\ numberOfGuests\ the\ number\ of\ guests\ to\ set\ to\r\n
+comment5.params=
+comment5.target=double\ getCost()
+comment5.text=\ \r\n\ Gets\ the\ cost\ of\ this\ room\ based\ on\ the\ season\ and\ number\ of\ guests\r\n\ @return\ totalCost\ the\ cost\ of\ this\ room\r\n
+numComments=6

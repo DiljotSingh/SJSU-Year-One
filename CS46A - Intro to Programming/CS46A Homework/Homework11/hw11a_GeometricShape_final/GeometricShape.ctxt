@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GeometricShape
+comment0.text=\r\n\ Makes\ a\ GeometricShape\ interface\ that\ contains\ methods\ which\ can\ be\ used\ by\ Shape\ objects\r\n\ @author\ Diljot\ Singh\r\n\ @version\ (11-12-2018)\r\n
+comment1.params=
+comment1.target=double\ area()
+numComments=2

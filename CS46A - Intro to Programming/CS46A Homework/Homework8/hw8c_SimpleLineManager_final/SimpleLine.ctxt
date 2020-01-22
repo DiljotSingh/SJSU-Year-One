@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=SimpleLine
+comment0.text=\r\n\ Represents\ a\ line\ in\ 2-d\ space\r\n
+comment1.params=x1\ y1\ x2\ y2
+comment1.target=SimpleLine(int,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructs\ a\ line\ with\ a\ given\ starting\ and\ ending\ location.\r\n\ @param\ x1\ the\ x-coordinate\ of\ the\ starting\ point\r\n\ @param\ y1\ the\ y-coordinate\ of\ the\ starting\ point\r\n\ @param\ x2\ the\ x-coordinate\ of\ the\ ending\ point\r\n\ @param\ y2\ the\ y-coordinate\ of\ the\ ending\ point\r\n
+comment2.params=
+comment2.target=int\ getX1()
+comment2.text=\r\n\ Gets\ the\ X\ coordinate\ of\ the\ start\ point\r\n\ @return\ the\ X\ coordinate\ of\ the\ start\ point\r\n
+comment3.params=
+comment3.target=int\ getY1()
+comment3.text=\r\n\ Gets\ the\ Y\ coordinate\ of\ the\ start\ point\r\n\ @return\ the\ Y\ coordinate\ of\ the\ start\ point\r\n
+comment4.params=
+comment4.target=int\ getX2()
+comment4.text=\r\n\ Gets\ the\ X\ coordinate\ of\ the\ end\ point\r\n\ @return\ the\ X\ coordinate\ of\ the\ end\ point\r\n
+comment5.params=
+comment5.target=int\ getY2()
+comment5.text=\r\n\ Gets\ the\ Y\ coordinate\ of\ the\ end\ point\r\n\ @return\ the\ Y\ coordinate\ of\ the\ end\ point\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=TemperatureTable
+comment0.text=\r\n\ Models\ a\ 2D\ Array\ that\ holds\ monthly\ temperatures\ for\ various\ cities\r\n\ @author\ Diljot\ Singh\r\n
+comment1.params=city\ temperatures
+comment1.target=TemperatureTable(java.lang.String,\ int[][])
+comment1.text=\r\n\ Constructs\ a\ TemperatureTable\ for\ a\ city\r\n\ @param\ city\ the\ city\ to\ construct\ this\ table\ for\r\n\ @param\ temperatures\ the\ array\ representing\ the\ monthly\ temperatures\r\n
+comment2.params=
+comment2.target=int\ last()
+comment2.text=\r\n\ Gets\ the\ element\ in\ the\ last\ column\ of\ the\ last\ row\r\n\ @return\ lastElement\ the\ last\ element\ \r\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\ \r\n\ Gets\ the\ name\ of\ the\ city\ \r\n\ @return\ cityName\ the\ name\ of\ the\ city\r\n
+comment4.params=
+comment4.target=int\ getHighest()
+comment4.text=\r\n\ Gets\ the\ largest\ value\ in\ the\ 2D\ array\r\n\ @return\ largest\ the\ largest\ value\r\n
+comment5.params=target
+comment5.target=boolean\ contains(int)
+comment5.text=\r\n\ Checks\ if\ the\ targest\ is\ in\ the\ array\r\n\ @param\ target\ the\ value\ to\ search\ the\ array\ for\r\n\ @return\ found\ the\ boolean\ variable\ to\ return\ \r\n
+numComments=6

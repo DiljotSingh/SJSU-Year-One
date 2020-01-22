@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=StaticPractice
+comment0.text=\r\n\ Models\ a\ class\ with\ multiple\ static\ methods\ that\ can\ be\ called\r\n\ @author\ Diljot\ Singh\r\n
+comment1.params=numbers
+comment1.target=double\ max(int[])
+comment1.text=\r\n\ Gets\ the\ largest\ value\ in\ the\ array\r\n\ @param\ numbers\ the\ array\ to\ search\ the\ largest\ value\ for\r\n\ @return\ largest\ the\ largest\ value\ if\ array\ is\ not\ empty,\ else\ return\ Integer.MIN_VALUE\r\n
+comment2.params=numbers
+comment2.target=double\ max(java.util.ArrayList)
+comment2.text=\r\n\ Gets\ the\ largest\ value\ in\ the\ ArrayList\r\n\ @param\ numbers\ the\ ArrayList\ to\ search\ the\ largest\ value\ for\r\n\ @return\ largest\ the\ largest\ value\ if\ the\ ArrayList\ is\ not\ empty,\ else\ return\ Integer.MIN_Value\r\n
+comment3.params=list\ target
+comment3.target=boolean\ containsMultiple(java.lang.String[],\ java.lang.String)
+comment3.text=\r\n\ Determines\ if\ the\ target\ is\ in\ the\ array\ more\ than\ once\r\n\ @param\ list\ the\ array\ to\ search\r\n\ @param\ target\ the\ target\ to\ search\ for\r\n\ @return\ found\ the\ boolean\ variable\ either\ true\ or\ false\r\n
+comment4.params=list\ target
+comment4.target=boolean\ containsMultiple(java.util.ArrayList,\ java.lang.String)
+comment4.text=\r\n\ Determines\ if\ the\ target\ is\ in\ the\ ArrayList\ more\ than\ once\r\n\ @param\ list\ the\ ArrayList\ to\ search\r\n\ @param\ target\ the\ target\ to\ search\ for\r\n\ @return\ found\ the\ boolean\ variable\ either\ true\ or\ false\r\n
+numComments=5

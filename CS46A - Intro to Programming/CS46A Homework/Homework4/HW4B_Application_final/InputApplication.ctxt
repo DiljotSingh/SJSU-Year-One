@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=InputApplication
+comment0.text=\r\n\ Working\ with\ Scanner\ to\ get\ keyboard\ input\r\n\ @author\ Diljot\ Singh\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ manipulates\ various\ inputs\ and\ prints\ them\r\n
+numComments=2

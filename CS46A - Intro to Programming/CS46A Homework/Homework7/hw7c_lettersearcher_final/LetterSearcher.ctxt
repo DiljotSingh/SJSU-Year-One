@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=LetterSearcher
+comment0.text=\r\n\ Models\ a\ LetterSearcher\ that\ uses\ a\ letter\ input\ to\ perform\ various\ tasks\r\n\ @author\ Diljot\ Singh\r\n
+comment1.params=letter
+comment1.target=LetterSearcher(java.lang.String)
+comment1.text=\r\n\ Constructs\ a\ LetterSearcher\ object\ with\ a\ String\ parameter\r\n\ @param\ letter\ the\ letter\ to\ perform\ the\ methods\ with\r\n
+comment2.params=phrase
+comment2.target=int\ letterCount(java.lang.String)
+comment2.text=\ \r\n\ Returns\ the\ number\ of\ times\ the\ letter\ occurs\ in\ the\ phrase\r\n\ @param\ phrase\ the\ phrase\ to\ iterate\ through\r\n\ @return\ count\ the\ number\ of\ times\ the\ letter\ occurred\ in\ the\ phrase\r\n
+comment3.params=phrase
+comment3.target=int\ doubleIndex(java.lang.String)
+comment3.text=\r\n\ Looks\ for\ the\ first\ place\ the\ letter\ appears\ consecutively\r\n\ @param\ phrase\ the\ phrase\ to\ iterate\ through\r\n\ @return\ index\ the\ index\ of\ the\ first\ pair\ (-1\ if\ doesn't\ exist)\r\n
+comment4.params=
+comment4.target=java.lang.String\ getLetter()
+comment4.text=\r\n\ Gets\ the\ character\ for\ this\ LetterSearcher\r\n\ @return\ letter\ the\ letter\ in\ this\ LetterSearcher\r\n
+numComments=5

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=RandomPlayer
+comment0.text=\r\n\ Models\ a\ Random\ Player\ that\ performs\ tests\ using\ a\ Random\ object\r\n\ @author\ Diljot\ Singh\r\n\ @version\ (10/18/2018)\r\n
+comment1.params=generator\ upperBound\ numberOfIterations
+comment1.target=RandomPlayer(java.util.Random,\ int,\ int)
+comment1.text=\r\n\ Constructs\ a\ RandomPlayer\ object\ that\ takes\ a\ generator,\ upperBound,\ and\ number\ of\ iterations\r\n\ @param\ generator\ the\ Random\ object\r\n\ @param\ upperBound\ the\ maximum\ value\ of\ the\ generated\ numners\r\n\ @param\ numberOfIterations\ number\ of\ random\ ints\ to\ generate\r\n
+comment2.params=
+comment2.target=double\ average()
+comment2.text=\ Generates\ the\ specific\ number\ of\ random\ ints\ and\ gets\ the\ average\r\n\ of\ the\ values\ generated\r\n\ @return\ average\ the\ average\ of\ the\ values\ generated\r\n
+comment3.params=
+comment3.target=int\ countGreaterThanMidValue()
+comment3.text=\r\n\ Generates\ the\ specified\ number\ of\ random\ ints\ and\ counts\ how\ many\ are\ greater\ than\r\n\ the\ upperBound/2\r\n\ @return\ numberOfCounts\ the\ number\ of\ random\ ints\ greater\ than\ the\ mid\ value\r\n
+comment4.params=value
+comment4.target=int\ count(int)
+comment4.text=\r\n\ Generates\ the\ specified\ number\ of\ random\ ints\ and\ calculates\ the\ number\ of\ times\ the\ value\ appears\r\n\ @param\ value\ the\ value\ to\ check\ match\ for\r\n\ @return\ count\ how\ many\ times\ this\ value\ was\ matched\r\n
+comment5.params=numberOfIterations
+comment5.target=void\ setIterations(int)
+comment5.text=\ \r\n\ Sets\ the\ number\ of\ iterations\ for\ this\ object\r\n\ @param\ numberOfIterations\ the\ number\ of\ iterations\ to\ set\ this\ object\ to\r\n
+numComments=6

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Shape
+comment0.text=\r\n\ A\ shape\ that\ can\ be\ drawn\ on\ a\ canvas.\r\n
+comment1.params=
+comment1.target=int\ getX()
+comment1.text=\r\n\ Gets\ the\ leftmost\ x-position\ of\ the\ shape.\r\n\ @return\ the\ leftmost\ x-position\r\n
+comment2.params=
+comment2.target=int\ getY()
+comment2.text=\r\n\ Gets\ the\ topmost\ y-position\ of\ the\ shape.\r\n\ @return\ the\ topmost\ y-position\r\n
+comment3.params=
+comment3.target=int\ getWidth()
+comment3.text=\r\n\ Gets\ the\ width\ of\ the\ shape.\r\n\ @return\ the\ width\r\n
+comment4.params=
+comment4.target=int\ getHeight()
+comment4.text=\r\n\ Gets\ the\ height\ of\ the\ shape.\r\n\ @return\ the\ height\r\n
+comment5.params=g2
+comment5.target=void\ paintShape(java.awt.Graphics2D)
+comment5.text=\r\n\ Paints\ the\ shape\r\n\ @param\ g2\ the\ graphics\ object\r\n
+numComments=6

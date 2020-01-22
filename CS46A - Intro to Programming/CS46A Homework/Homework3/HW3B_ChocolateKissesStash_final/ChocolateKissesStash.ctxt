@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ChocolateKissesStash
+comment0.text=\r\n\ Models\ a\ stash\ of\ Chocolate\ Kisses\ that\ can\ change\ in\ amount\r\n\ @author\ Diljot\ Singh\r\n
+comment1.params=theMaxCapacity
+comment1.target=ChocolateKissesStash(int)
+comment1.text=\r\n\ Constructs\ a\ ChocolateKissesStash\ object\ with\ given\ max\ capacity\r\n\ @param\ theMaxCapacity\ the\ maximum\ amount\ of\ kisses\ this\ stash\ can\ hold\r\n
+comment2.params=
+comment2.target=int\ getMaxCapacity()
+comment2.text=\r\n\ Gets\ the\ maximum\ capacity\ of\ this\ ChocolateKissesStash\r\n\ @return\ the\ maximum\ capacity\r\n
+comment3.params=
+comment3.target=int\ getCurrentAmount()
+comment3.text=\r\n\ Gets\ number\ of\ kisses\ in\ the\ ChocolateKissesStash\r\n\ @return\ current\ amount\ of\ kisses\ in\ Stash\r\n
+comment4.params=amountToEat
+comment4.target=void\ eat(int)
+comment4.text=\r\n\ reduces\ current\ amount\ of\ chocolate\ kisses\ by\ amountToEat\r\n\ @param\ amountToEat\ the\ amount\ of\ kisses\ to\ eat\r\n
+comment5.params=amountToBuy
+comment5.target=void\ buyMore(int)
+comment5.text=\r\n\ simulates\ adding\ more\ kisses\ to\ the\ ChocolateKissesStash\r\n\ @param\ amountToBuy\ the\ amount\ of\ kisses\ to\ buy\r\n
+numComments=6

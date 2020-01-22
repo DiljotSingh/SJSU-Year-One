@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Circle
+comment0.text=\r\n\ Models\ a\ Circle\ that\ implements\ the\ GeometricShape\ interface\r\n
+comment1.params=r
+comment1.target=Circle(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Circle\r\n\ @param\ r\ the\ radius\ of\ this\ circle\r\n
+comment2.params=
+comment2.target=int\ getRadius()
+comment2.text=\r\n\ Gets\ the\ radius\ of\ this\ Circle\r\n\ @return\ the\ radius\ of\ this\ circle\r\n
+comment3.params=r
+comment3.target=void\ setRadius(int)
+comment3.text=\r\n\ Sets\ a\ new\ radius\ for\ this\ Circle\r\n\ @param\ r\ the\ radius\ of\ this\ circle\r\n
+comment4.params=
+comment4.target=double\ area()
+comment4.text=\r\n\ Gets\ the\ area\ of\ the\ Circle\r\n\ @return\ the\ area\ of\ the\ Circle\r\n
+numComments=5

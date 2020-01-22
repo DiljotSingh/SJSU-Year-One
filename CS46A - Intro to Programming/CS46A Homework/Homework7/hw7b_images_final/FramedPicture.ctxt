@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FramedPicture
+comment0.text=\r\n\ Models\ a\ framed\ picture\ that\ iterates\ through\ pixels\r\n\ @author\ Diljot\ Singh\r\n
+comment1.params=thePicture
+comment1.target=FramedPicture(Picture)
+comment1.text=\r\n\ Constructs\ a\ FramedPicture\ object\ that\ takes\ a\ Picture\ as\ a\ parameter\r\n\ @param\ thePicture\ the\ picture\ to\ manipulate,\ inspect,\ and\ modify\r\n
+comment2.params=
+comment2.target=Picture\ frame()
+comment2.text=\r\n\ Returns\ the\ picture\ in\ a\ round\ frame\r\n\ @return\ picture\ the\ picture\ after\ setting\ the\ frame\r\n
+numComments=3
