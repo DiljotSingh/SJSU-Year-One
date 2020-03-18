@@ -151,30 +151,18 @@ public class Grid {
 	public boolean checkRowsAndColumns(int row, int col, int value) {
 		for (int i = 0; i < 9; i++) {
 			int currentValueToCompare = values[i][col]; // Initializes the value, checks a column
-
-			if ((currentValueToCompare == value) && (i != row) && (currentValueToCompare != 0)) { // If the value in the
-																									// parameter and
-																									// current value
-																									// being compared
-																									// match and they're
-																									// not in the same
-																									// location (i !=
-																									// row) and this is
-																									// a non-zero value,
-																									// then this returns
-																									// false,
-																									// indicating that
-																									// there is
-																									// repetition in the
-																									// column
+			// If the value in the parameter and current value being compared match and they're not in the same location (i !=3)
+			//and this is a non-zero value, we return false - indicating there is repetition in the column
+			if ((currentValueToCompare == value) && (i != row) && (currentValueToCompare != 0)) { 
+							
 				return false;
 			}
 		}
 		for (int j = 0; j < 9; j++) {
 			int currentValueToCompare = values[row][j]; // Same as above, but checks for reptition in a row instead of a
-														// column; compares the value from the isLegal() method to all
-														// other values in that row to see if there is any non-zero
-														// reptition
+										// column; compares the value from the isLegal() method to all
+										// other values in that row to see if there is any non-zero
+										// reptition
 			if ((currentValueToCompare == value) && (j != col) && (currentValueToCompare != 0)) {
 				return false;
 			}
@@ -191,10 +179,8 @@ public class Grid {
 		// only
 		// difference being that it resets after the row/column is about to go outside
 		// of the current 3x3 block.
-		for (int r = topLeftCornerRow; r < topLeftCornerRow + 3; r++) { // Starts at the top left corner of the current
-																		// 3x3 block
-			for (int c = topLeftCornerColumn; c < topLeftCornerColumn + 3; c++) { // Starts at the top left corner of
-																					// the current 3x3 block
+		for (int r = topLeftCornerRow; r < topLeftCornerRow + 3; r++) { // Starts at the top left corner of the current 3x3 block
+			for (int c = topLeftCornerColumn; c < topLeftCornerColumn + 3; c++) { // Starts at the top left corner of the current 3x3 block
 				int currentValueToCompare = values[r][c];
 				// Standard check to ensure that the current value is non-zero and is not at the
 				// exact same location as the value being checked for duplicity
